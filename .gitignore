@@ -47,5 +47,5 @@ next-env.d.ts
 /local-preview.log
 
 photo/
-*.mp4
 *.MOV
+photo.zip
