@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Premium event support placeholder</title>
+  <desc id="desc">Backstage coordination desk with event support cues.</desc>
+  <rect width="1200" height="820" fill="#0a0908"/>
+  <path d="M190 220h820v390H190z" fill="#141210" stroke="#f4efe7" stroke-opacity=".12"/>
+  <path d="M260 300h250v210H260zM560 300h120v210H560zM730 300h210v210H730z" fill="#1a1713" stroke="#c7ad7a" stroke-opacity=".26"/>
+  <path d="M190 610h820v80H190z" fill="#1a1713" stroke="#c7ad7a" stroke-opacity=".34"/>
+  <text x="600" y="430" text-anchor="middle" fill="#f4efe7" font-family="Times New Roman, serif" font-size="48" letter-spacing="7">EVENT SUPPORT</text>
+</svg>

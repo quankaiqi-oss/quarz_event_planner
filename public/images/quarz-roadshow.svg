@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Roadshow activation placeholder</title>
+  <desc id="desc">A premium roadshow booth and activation structure.</desc>
+  <rect width="1200" height="820" fill="#080807"/>
+  <path d="M130 555h940v120H130z" fill="#141210" stroke="#c7ad7a" stroke-opacity=".34"/>
+  <path d="M230 275h740v280H230z" fill="#12100e" stroke="#f4efe7" stroke-opacity=".14"/>
+  <path d="M310 355h230v200H310zM660 355h230v200H660z" fill="#1b1814"/>
+  <path d="M230 275l105-100h530l105 100" fill="#17130e" stroke="#c7ad7a" stroke-opacity=".38"/>
+  <text x="600" y="235" text-anchor="middle" fill="#f4efe7" font-family="Times New Roman, serif" font-size="45" letter-spacing="8">ROADSHOW</text>
+  <g fill="#c7ad7a" opacity=".18"><circle cx="215" cy="695" r="42"/><circle cx="985" cy="695" r="42"/><circle cx="600" cy="702" r="52"/></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Brand activation placeholder</title>
+  <desc id="desc">A refined brand activation space with display islands and lighting.</desc>
+  <rect width="1200" height="820" fill="#0b0a09"/>
+  <path d="M0 590h1200v230H0z" fill="#12100e"/>
+  <path d="M260 210h680v320H260z" fill="#151311" stroke="#f4efe7" stroke-opacity=".14"/>
+  <path d="M335 295h210v170H335zM655 295h210v170H655z" fill="#1c1914" stroke="#c7ad7a" stroke-opacity=".36"/>
+  <ellipse cx="440" cy="640" rx="150" ry="38" fill="#c7ad7a" opacity=".22"/>
+  <ellipse cx="760" cy="640" rx="150" ry="38" fill="#c7ad7a" opacity=".22"/>
+  <path d="M440 320V95M760 320V95" stroke="#c7ad7a" stroke-opacity=".42" stroke-width="3"/>
+  <text x="600" y="735" text-anchor="middle" fill="#f4efe7" font-family="Times New Roman, serif" font-size="44" letter-spacing="7">BRAND EXPERIENCE</text>
+</svg>

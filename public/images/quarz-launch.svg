@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Product launch stage placeholder</title>
+  <desc id="desc">A luxury product launch reveal stage in a dark hall.</desc>
+  <rect width="1200" height="820" fill="#0a0908"/>
+  <circle cx="600" cy="230" r="310" fill="#c7ad7a" opacity=".12"/>
+  <path d="M150 590h900l-80 95H230z" fill="#151311" stroke="#c7ad7a" stroke-opacity=".35"/>
+  <rect x="315" y="230" width="570" height="330" fill="#11100e" stroke="#f4efe7" stroke-opacity=".14"/>
+  <path d="M425 365h350v95H425z" fill="#1d1810" stroke="#c7ad7a" stroke-opacity=".45"/>
+  <text x="600" y="425" text-anchor="middle" fill="#f4efe7" font-family="Times New Roman, serif" font-size="54" letter-spacing="9">LAUNCH</text>
+  <path d="M80 130l390 470M1120 130L730 600" stroke="#c7ad7a" stroke-opacity=".35" stroke-width="4"/>
+</svg>

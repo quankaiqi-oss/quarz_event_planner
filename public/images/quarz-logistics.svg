@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Event logistics placeholder</title>
+  <desc id="desc">Organised event logistics and warehousing in a premium dark style.</desc>
+  <rect width="1200" height="820" fill="#090807"/>
+  <path d="M210 210h780v420H210z" fill="#13110f" stroke="#f4efe7" stroke-opacity=".12"/>
+  <g fill="#1c1813" stroke="#c7ad7a" stroke-opacity=".28">
+    <rect x="300" y="300" width="140" height="120"/><rect x="460" y="300" width="140" height="120"/><rect x="620" y="300" width="140" height="120"/>
+    <rect x="380" y="440" width="140" height="120"/><rect x="540" y="440" width="140" height="120"/><rect x="700" y="440" width="140" height="120"/>
+  </g>
+  <text x="600" y="705" text-anchor="middle" fill="#f4efe7" font-family="Times New Roman, serif" font-size="44" letter-spacing="7">LOGISTICS</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">QUARZ event launch placeholder</title>
+  <desc id="desc">Dark premium event stage with reveal lighting and audience silhouettes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#050505"/>
+      <stop offset=".48" stop-color="#15120d"/>
+      <stop offset="1" stop-color="#090807"/>
+    </linearGradient>
+    <radialGradient id="light" cx=".5" cy=".28" r=".55">
+      <stop stop-color="#f3e8cd" stop-opacity=".85"/>
+      <stop offset=".25" stop-color="#c7ad7a" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect width="1600" height="1000" fill="url(#light)"/>
+  <path d="M0 720h1600v280H0z" fill="#060606"/>
+  <path d="M230 650h1140l-90 110H320z" fill="#11100e" stroke="#c7ad7a" stroke-opacity=".38"/>
+  <path d="M410 375h780v285H410z" fill="#0d0c0b" stroke="#f4efe7" stroke-opacity=".16"/>
+  <path d="M490 455h620v110H490z" fill="#17130d" stroke="#c7ad7a" stroke-opacity=".45"/>
+  <text x="800" y="528" text-anchor="middle" fill="#f4efe7" font-family="Times New Roman, serif" font-size="84" letter-spacing="14">QUARZ</text>
+  <g stroke="#c7ad7a" stroke-opacity=".55" stroke-width="3">
+    <path d="M170 110l400 520"/>
+    <path d="M1430 110L1030 630"/>
+    <path d="M490 80l180 560"/>
+    <path d="M1110 80L930 640"/>
+  </g>
+  <g fill="#1d1b19">
+    <circle cx="390" cy="830" r="26"/><rect x="365" y="858" width="50" height="92"/>
+    <circle cx="470" cy="848" r="20"/><rect x="452" y="870" width="36" height="80"/>
+    <circle cx="1150" cy="835" r="24"/><rect x="1128" y="860" width="44" height="90"/>
+    <circle cx="1230" cy="850" r="19"/><rect x="1212" y="870" width="36" height="80"/>
+  </g>
+</svg>
